@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @karthikankam
-- 👀 I’m interested in ...feild of artificial intelligence
+- 👀 I’m interested in ...field of artificial intelligence
 - 🌱 I’m currently learning ...deep learning
 - 💞️ I’m looking to collaborate on ...internships
 - 📫 How to reach me ...whatsapp
