@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KarthikAnkam
+- 👋 Hi, I’m @Karthik Ankam
 - 👀 I’m interested in field of Artificial Intelligence and Data Science
 - 🌱 I’m currently learning fast API
 - 💞️ I’m looking to collaborate on gaining more skill related to AI
