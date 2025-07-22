@@ -9,5 +9,9 @@
 karthikankam/karthikankam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-🌐 Socials:
-Instagram LinkedIn Medium Stack Overflow
+## 🌐 Connect with me:
+
+### Socials:
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/karthik_ankam_99)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-ankam-16315529a/)
