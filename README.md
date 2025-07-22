@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-ff8c00?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-f89c1c?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-DC143C?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-4285F4?style=for-the-badge)
+![NaturalLanguageProcessing](https://img.shields.io/badge/NLP-4285F4?style=for-the-badge)
 ![Statistics](https://img.shields.io/badge/Statistics-8A2BE2?style=for-the-badge)
 ![Probability](https://img.shields.io/badge/Probability-BA55D3?style=for-the-badge)
 ![Algebra](https://img.shields.io/badge/Algebra-9370DB?style=for-the-badge)
