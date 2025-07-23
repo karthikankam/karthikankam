@@ -33,6 +33,9 @@ You can click the Preview link to take a look at your changes.
 ![Algebra](https://img.shields.io/badge/Algebra-9370DB?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/OOP-20B2AA?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -43,3 +46,11 @@ You can click the Preview link to take a look at your changes.
 ![Seaborn](https://img.shields.io/badge/Seaborn-2E8B57?style=for-the-badge)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge)
 ![GPT-4.0](https://img.shields.io/badge/GPT--4.0-8A2BE2?style=for-the-badge)
+
+## 📊 GitHub Stats:
+
+![karthikankam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthikankam&show_icons=true&count_private=true&theme=dark)
+
+## 🔥 Most Used Languages:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikankam&layout=compact&theme=dark)
