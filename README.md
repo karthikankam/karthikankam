@@ -54,3 +54,9 @@ You can click the Preview link to take a look at your changes.
 ## 🔥 Most Used Languages:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikankam&layout=compact&theme=dark)
+
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=karthikankam&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+
