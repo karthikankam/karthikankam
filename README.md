@@ -1,6 +1,6 @@
    # 👋 Hi, I’m @Karthik Ankam
 - 👀 I’m interested in field of Artificial Intelligence and Data Science
-- 🌱 I’m currently learning fast API
+- 🌱 I’m currently learning computer vision
 - 💞️ I’m looking to collaborate on gaining more skill related to AI
 - 👨‍💻 All of my projects are available at https://github.com/karthikankam
 - 📫 How to reach me ankamkarthik11@gmail.com
