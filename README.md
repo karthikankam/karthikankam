@@ -46,6 +46,8 @@ You can click the Preview link to take a look at your changes.
 ![Seaborn](https://img.shields.io/badge/Seaborn-2E8B57?style=for-the-badge)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge)
 ![GPT-4.0](https://img.shields.io/badge/GPT--4.0-8A2BE2?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
 
 ## 📊 GitHub Stats:
 
