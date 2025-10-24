@@ -44,6 +44,8 @@ You can click the Preview link to take a look at your changes.
 [![LangChain](https://img.shields.io/badge/Made%20with-LangChain-1C3C3C?logo=langchain&logoColor=white&style=for-the-badge)](https://www.langchain.com/)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge)
 ![GPT-4.0](https://img.shields.io/badge/GPT--4.0-8A2BE2?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-FF69B4?style=for-the-badge)
+
 
 ---
 
@@ -55,6 +57,9 @@ You can click the Preview link to take a look at your changes.
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-2E8B57?style=for-the-badge)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white&style=for-the-badge)](https://www.langchain.com/)
+![Transformers](https://img.shields.io/badge/Transformers-FF6F00?logo=huggingface&logoColor=white&style=for-the-badge)
+
 
 ---
 
