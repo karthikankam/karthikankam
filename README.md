@@ -41,7 +41,6 @@ You can click the Preview link to take a look at your changes.
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-f89c1c?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-DC143C?style=for-the-badge)
 ![Natural Language Processing](https://img.shields.io/badge/NaturalLanguageProcessing-4285F4?style=for-the-badge)
-[![LangChain](https://img.shields.io/badge/Made%20with-LangChain-1C3C3C?logo=langchain&logoColor=white&style=for-the-badge)](https://www.langchain.com/)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge)
 ![GPT-4.0](https://img.shields.io/badge/GPT--4.0-8A2BE2?style=for-the-badge)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-FF69B4?style=for-the-badge)
