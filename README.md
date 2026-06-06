@@ -68,15 +68,8 @@ You can click the Preview link to take a look at your changes.
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 
+## 📊 GitHub Stats
 
-## 📊 GitHub Stats:
-
-![Stats](https://readme-stats-tau-ivory.vercel.app/api?username=karthikankam&show_icons=true&theme=dark)
-
-## 🔥 Most Used Languages:
-
-![Top Languages](https://readme-stats-tau-ivory.vercel.app/api/top-langs/?username=karthikankam&layout=compact&theme=dark)
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=karthikankam&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+![Followers](https://img.shields.io/github/followers/karthikankam?style=for-the-badge&logo=github&color=blue)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-orange?style=for-the-badge)
