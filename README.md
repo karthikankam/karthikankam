@@ -71,11 +71,11 @@ You can click the Preview link to take a look at your changes.
 
 ## 📊 GitHub Stats:
 
-![karthikankam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthikankam&show_icons=true&theme=dark&cache_seconds=1)
+![Stats](https://readme-stats-tau-ivory.vercel.app/api?username=karthikankam&show_icons=true&theme=dark)
 
 ## 🔥 Most Used Languages:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikankam&layout=compact&theme=dark&cache_seconds=1)
+![Top Languages](https://readme-stats-tau-ivory.vercel.app/api/top-langs/?username=karthikankam&layout=compact&theme=dark)
 
 ## 🏆 GitHub Trophies
 
